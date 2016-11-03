@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Dining</name>
+		<Placemark>
+			<name>Salad and Go</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.78956800000003,33.363617,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RA Sushi Bar Restaurant</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.7548251,33.3853259,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dutch Bros</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.78935790000003,33.35912149999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Charleston's Restaurant</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.80524259999999,33.3843946,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pita Jungle - Dana Park</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.75659229999997,33.38537730000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Farmhouse Restaurant</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.78993300000002,33.354594,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Joe's Real BBQ</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.7894607,33.3550304,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flancer's - Gilbert, AZ</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.79005699999999,33.360831,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Barrio Queen</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.78991500000001,33.3569045,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zinburger</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.78990290000002,33.3562128,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Snooze an A.M. Eatery</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.78987280000001,33.35546900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Romeo's Euro Café</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.78933230000001,33.3538257,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oreganos Pizza Bistro</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.78984589999999,33.355889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fox Restaurant Concepts</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.78999429999999,33.3565401,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Masa Sushi Japanese Cuisine</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.789331,33.366112,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Temari Fine Japanese Cuisine</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.75567619999998,33.36700359999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Casanova Brothers Pizza</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.75478199999998,33.36691959999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rio Rico Mexican Grill</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.75551029999997,33.3637628,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Einstein Bros. Bagels</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.755695,33.36657099999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rosati's Pizza</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.7550271,33.3515734,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Coffee Rush</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.75507449999998,33.3511894,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Starbucks</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.757251,33.3485228,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bosa Donuts</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.75620500000002,33.347662,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nicantoni's</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.78890209999997,33.3441312,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Gilbert House Restaurant</name>
+			<styleUrl>#icon-1577-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.78940799999998,33.343131,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1577-A52714-nodesc'>
+			<IconStyle>
+				<color>ff1427A5</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+	</Document>
+</kml>

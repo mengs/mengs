@@ -1,0 +1,341 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>291 E Tremaine Ave, Gilbert, AZ 85234</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Subject</name>
+			<Placemark>
+				<name>291 E Tremaine Ave</name>
+				<styleUrl>#icon-1603-FF5252-nodesc</styleUrl>
+				<Point>
+					<coordinates>-111.784195,33.361004,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>DINE</name>
+			<Placemark>
+				<name>Flancer's - Gilbert, AZ</name>
+				<styleUrl>#icon-1577-E65100-nodesc</styleUrl>
+				<Point>
+					<coordinates>-111.79005699999999,33.360831,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Salad and Go</name>
+				<styleUrl>#icon-1577-E65100-nodesc</styleUrl>
+				<Point>
+					<coordinates>-111.78956800000003,33.363617,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lulus Taco Shop</name>
+				<styleUrl>#icon-1577-E65100-nodesc</styleUrl>
+				<Point>
+					<coordinates>-111.79003990000001,33.3611828,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lo-Lo's Chicken &amp; Waffles</name>
+				<styleUrl>#icon-1577-E65100-nodesc</styleUrl>
+				<Point>
+					<coordinates>-111.78997500000003,33.3566667,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>DQ Grill &amp; Chill Restaurant</name>
+				<styleUrl>#icon-1577-E65100-nodesc</styleUrl>
+				<Point>
+					<coordinates>-111.7893105,33.3588416,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>ESSENTIALS</name>
+			<Placemark>
+				<name>Burk Elementary School</name>
+				<styleUrl>#icon-1594-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-111.7812753,33.35898459999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chevron Gilbert</name>
+				<styleUrl>#icon-1594-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-111.789015,33.3649355,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gilbert High School</name>
+				<styleUrl>#icon-1594-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-111.76687200000003,33.3488587,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>United States Postal Service</name>
+				<styleUrl>#icon-1594-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>-111.78643579999999,33.34953230000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>SHOP</name>
+			<Placemark>
+				<name>Safeway</name>
+				<styleUrl>#icon-1684-097138-nodesc</styleUrl>
+				<Point>
+					<coordinates>-111.7571059,33.3486039,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SanTan Village</name>
+				<styleUrl>#icon-1684-097138-nodesc</styleUrl>
+				<Point>
+					<coordinates>-111.7430387,33.3097319,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Target</name>
+				<styleUrl>#icon-1684-097138-nodesc</styleUrl>
+				<Point>
+					<coordinates>-111.7574189,33.3336616,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Costco Wholesale</name>
+				<styleUrl>#icon-1684-097138-nodesc</styleUrl>
+				<Point>
+					<coordinates>-111.74495409999997,33.2962478,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>FUN</name>
+			<Placemark>
+				<name>Gilbert Town Square</name>
+				<styleUrl>#icon-1502-F9A825-nodesc</styleUrl>
+				<Point>
+					<coordinates>-111.79239419999999,33.3305924,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Regal Cinemas Gilbert 14</name>
+				<styleUrl>#icon-1502-F9A825-nodesc</styleUrl>
+				<Point>
+					<coordinates>-111.79588899999999,33.32878000000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Freestone Park</name>
+				<styleUrl>#icon-1502-F9A825-nodesc</styleUrl>
+				<Point>
+					<coordinates>-111.76831470000002,33.35891060000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1502-F9A825-nodesc-normal'>
+			<IconStyle>
+				<color>ff25A8F9</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1502-F9A825-nodesc-highlight'>
+			<IconStyle>
+				<color>ff25A8F9</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1502-F9A825-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1502-F9A825-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1502-F9A825-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1577-E65100-nodesc-normal'>
+			<IconStyle>
+				<color>ff0051E6</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1577-E65100-nodesc-highlight'>
+			<IconStyle>
+				<color>ff0051E6</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1577-E65100-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1577-E65100-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1577-E65100-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1594-0288D1-nodesc-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1594-0288D1-nodesc-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1594-0288D1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1594-0288D1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1594-0288D1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1603-FF5252-nodesc-normal'>
+			<IconStyle>
+				<color>ff5252FF</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1603-FF5252-nodesc-highlight'>
+			<IconStyle>
+				<color>ff5252FF</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1603-FF5252-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1603-FF5252-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1603-FF5252-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1684-097138-nodesc-normal'>
+			<IconStyle>
+				<color>ff387109</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1684-097138-nodesc-highlight'>
+			<IconStyle>
+				<color>ff387109</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1684-097138-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1684-097138-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1684-097138-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

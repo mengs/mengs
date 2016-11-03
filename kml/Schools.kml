@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Schools</name>
+		<Placemark>
+			<name>Gilbert Junior High School</name>
+			<styleUrl>#icon-1726-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.78272370000002,33.368913,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burk Elementary School</name>
+			<styleUrl>#icon-1726-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.7812753,33.35898459999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gilbert High School</name>
+			<styleUrl>#icon-1726-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.76687200000003,33.3488587,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sunrise Preschools - Gilbert</name>
+			<styleUrl>#icon-1726-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.7829777,33.3778539,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gilbert Arts Academy &amp; Preschool</name>
+			<styleUrl>#icon-1726-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.77148299999999,33.3507099,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1726-0288D1-nodesc-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1726-0288D1-nodesc-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1726-0288D1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1726-0288D1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1726-0288D1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
