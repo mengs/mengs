@@ -108,6 +108,7 @@
 	z-index: 800;
 	pointer-events: visiblePainted; /* IE 9-10 doesn't have auto */
 	pointer-events: auto;
+
 	}
 .leaflet-top,
 .leaflet-bottom {
@@ -260,6 +261,8 @@
 .leaflet-bar {
 	box-shadow: 0 1px 5px rgba(0,0,0,0.65);
 	border-radius: 4px;
+	/*edited*/
+	/*width:320px;*/
 	}
 .leaflet-bar a,
 .leaflet-bar a:hover {
@@ -268,7 +271,7 @@
 	width: 26px;
 	height: 26px;
 	line-height: 26px;
-	display: block;
+	/*display: block;*/
 	text-align: center;
 	text-decoration: none;
 	color: black;
@@ -453,7 +456,7 @@
 .leaflet-popup-content-wrapper {
 	padding: 1px;
 	text-align: left;
-	border-radius: 12px;
+	border-radius: 4px;
 	}
 .leaflet-popup-content {
 	margin: 6px 10px;
@@ -496,7 +499,7 @@
 	}
 .leaflet-container a.leaflet-popup-close-button:hover {
 	color: #999;
-    opacity: 1;
+    opacity: 0;
 	}
 .leaflet-popup-scrolled {
 	overflow: auto;
@@ -617,16 +620,19 @@
     float: left;
     border-right: 1px solid #ccc;
     border-bottom-width: 0px;
+		width:80px;
   }
 
   .leaflet-bar-horizontal a:hover {
     border-bottom-width: 0px;
+		width:80px;
   }
 
   .leaflet-bar-horizontal a:first-child {
     border-top-left-radius: 4px;
     border-bottom-left-radius: 4px;
     border-top-right-radius: 0px;
+		width:80px;
   }
 
   .leaflet-bar-horizontal a:last-child {
@@ -635,3 +641,7 @@
     border-bottom-left-radius: 0px;
     border-right-width: 0px;
   }
+/*#div{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+}*/

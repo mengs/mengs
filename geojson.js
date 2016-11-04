@@ -11,7 +11,8 @@ var dining = {
                 ]
             },
             "properties": {
-                "name": "Flancer's - Gilbert, AZ"
+                "name": "Flancer's - Gilbert, AZ",
+                "transit": "5 mins drive"
             }
         },
         {
@@ -24,7 +25,8 @@ var dining = {
                 ]
             },
             "properties": {
-                "name": "Salad and Go"
+                "name": "Salad and Go",
+                "transit": "6 mins drive"
             }
         },
         {
@@ -37,7 +39,8 @@ var dining = {
                 ]
             },
             "properties": {
-                "name": "Lulus Taco Shop"
+                "name": "Lulus Taco Shop",
+                "transit": "5 mins drive"
             }
         },
         {
@@ -50,7 +53,8 @@ var dining = {
                 ]
             },
             "properties": {
-                "name": "Lo-Lo's Chicken & Waffles"
+                "name": "Lo-Lo's Chicken & Waffles",
+                "transit": "6 mins drive"
             }
         }
     ]
@@ -70,7 +74,8 @@ var fun={
                 ]
             },
             "properties": {
-                "name": "Superstition Springs Center"
+                "name": "Superstition Springs Center",
+                "transit": "38 mins drive"
             }
         },
         {
@@ -84,7 +89,8 @@ var fun={
                 ]
             },
             "properties": {
-                "name": "Freestone Trailhead"
+                "name": "Freestone Trailhead",
+                "transit": "15 mins drive"
             }
         },
         {
@@ -98,7 +104,8 @@ var fun={
                 ]
             },
             "properties": {
-                "name": "Village Center Shopping Center"
+                "name": "Village Center Shopping Center",
+                "transit": "5 mins drive"
             }
         },
         {
@@ -112,7 +119,8 @@ var fun={
                 ]
             },
             "properties": {
-                "name": "AMC Mesa Grand 14"
+                "name": "AMC Mesa Grand 14",
+                "transit": "28 mins drive"
             }
         },
 
@@ -132,7 +140,8 @@ var essentials={
                 ]
             },
             "properties": {
-                "name": "Target"
+                "name": "Target",
+                "transit": "30 mins drive"
             }
         },
         {
@@ -146,7 +155,8 @@ var essentials={
                 ]
             },
             "properties": {
-                "name": "Target"
+                "name": "Target",
+                "transit": "33 mins drive"
             }
         },
         {
@@ -160,7 +170,8 @@ var essentials={
                 ]
             },
             "properties": {
-                "name": "Big Lots"
+                "name": "Big Lots",
+                "transit": "5 mins drive"
             }
         },
         {
@@ -174,21 +185,8 @@ var essentials={
                 ]
             },
             "properties": {
-                "name": "Fry's Food And Drug"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -111.78783090000002,
-                    33.3816516,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Wells Fargo Bank"
+                "name": "Fry's Food And Drug",
+                "transit": "25 mins drive"
             }
         },
         {
@@ -202,7 +200,8 @@ var essentials={
                 ]
             },
             "properties": {
-                "name": "Chase Bank"
+                "name": "Chase Bank",
+                "transit": "6 mins drive"
             }
         },
         {
@@ -216,7 +215,8 @@ var essentials={
                 ]
             },
             "properties": {
-                "name": "Walgreens"
+                "name": "Walgreens",
+                "transit": "7 mins drive"
             }
         },
         {
@@ -230,7 +230,8 @@ var essentials={
                 ]
             },
             "properties": {
-                "name": "Wells Fargo Bank"
+                "name": "Wells Fargo Bank",
+                "transit": "6 mins drive"
             }
         },
         {
@@ -244,7 +245,8 @@ var essentials={
                 ]
             },
             "properties": {
-                "name": "Smart & Final Extra!"
+                "name": "Smart & Final Extra!",
+                "transit": "8 mins drive"
             }
         },
         {
@@ -258,7 +260,8 @@ var essentials={
                 ]
             },
             "properties": {
-                "name": "Sam's Club"
+                "name": "Sam's Club",
+                "transit": "20 mins drive"
             }
         }
     ]
@@ -277,7 +280,8 @@ var schools={
                 ]
             },
             "properties": {
-                "name": "Gilbert Junior High School"
+                "name": "Gilbert Junior High School",
+                "transit": "15 mins drive"
             }
         },
         {
@@ -291,7 +295,8 @@ var schools={
                 ]
             },
             "properties": {
-                "name": "Burk Elementary School"
+                "name": "Burk Elementary School",
+                "transit": "3 mins drive"
             }
         },
         {
@@ -305,7 +310,8 @@ var schools={
                 ]
             },
             "properties": {
-                "name": "Gilbert High School"
+                "name": "Gilbert High School",
+                "transit": "23 mins drive"
             }
         },
         {
@@ -319,7 +325,8 @@ var schools={
                 ]
             },
             "properties": {
-                "name": "Sunrise Preschools - Gilbert"
+                "name": "Sunrise Preschools - Gilbert",
+                "transit": "15 mins drive"
             }
         },
         {
@@ -333,7 +340,8 @@ var schools={
                 ]
             },
             "properties": {
-                "name": "Gilbert Arts Academy & Preschool"
+                "name": "Gilbert Arts Academy & Preschool",
+                "transit": "21 mins drive"
             }
         }
     ]
